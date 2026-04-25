@@ -4,12 +4,6 @@ Aplicación web desarrollada con **React** que permite visualizar estrenos de pe
 
 ---
 
-## 🚀 Demo
-
-👉 *(Agregá acá el link cuando lo deployes — Vercel / Netlify)*
-
----
-
 ## 🧠 Descripción
 
 **Estrenos Arg** es una aplicación frontend que consume datos de películas para mostrar los últimos estrenos disponibles.
