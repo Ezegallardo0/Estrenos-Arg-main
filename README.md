@@ -58,25 +58,35 @@ src/
 │── main.jsx      # Entry point
 
 
-📌 Estado del proyecto
+---
 
-🚧 En desarrollo
+## 📌 Estado del proyecto
+
+🚧 En desarrollo  
 
 El proyecto se encuentra en mejora continua. Algunas funcionalidades pueden cambiar o ampliarse.
 
-🔮 Posibles mejoras futuras
-🔎 Buscador de películas
-⭐ Sistema de favoritos
-🎬 Detalle individual de cada película
-🌙 Modo oscuro
-⚡ Optimización de rendimiento
-🚀 Deploy en producción
-👨‍💻 Autor
+---
 
-Eze Gallardo
+## 🔮 Posibles mejoras futuras
 
-GitHub: https://github.com/Ezegallardo0
+- 🔎 Buscador de películas  
+- ⭐ Sistema de favoritos  
+- 🎬 Detalle individual de cada película  
+- 🌙 Modo oscuro  
+- ⚡ Optimización de rendimiento  
+- 🚀 Deploy en producción  
 
-📄 Licencia
+---
+
+## 👨‍💻 Autor
+
+**Eze Gallardo**
+
+- GitHub: https://github.com/Ezegallardo0
+
+---
+
+## 📄 Licencia
 
 Este proyecto fue creado con fines educativos y de portfolio.
