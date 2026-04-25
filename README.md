@@ -56,6 +56,8 @@ src/
 │── assets/       # Recursos estáticos
 │── App.jsx       # Componente raíz
 │── main.jsx      # Entry point
+
+
 📌 Estado del proyecto
 
 🚧 En desarrollo
