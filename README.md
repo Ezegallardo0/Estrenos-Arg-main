@@ -56,37 +56,24 @@ src/
 │── assets/       # Recursos estáticos
 │── App.jsx       # Componente raíz
 │── main.jsx      # Entry point
+📌 Estado del proyecto
 
-
----
-
-## 📌 Estado del proyecto
-
-🚧 En desarrollo  
+🚧 En desarrollo
 
 El proyecto se encuentra en mejora continua. Algunas funcionalidades pueden cambiar o ampliarse.
 
----
+🔮 Posibles mejoras futuras
+🔎 Buscador de películas
+⭐ Sistema de favoritos
+🎬 Detalle individual de cada película
+🌙 Modo oscuro
+⚡ Optimización de rendimiento
+🚀 Deploy en producción
+👨‍💻 Autor
 
-## 🔮 Posibles mejoras futuras
+Eze Gallardo
 
-- 🔎 Buscador de películas  
-- ⭐ Sistema de favoritos  
-- 🎬 Detalle individual de cada película  
-- 🌙 Modo oscuro  
-- ⚡ Optimización de rendimiento  
-- 🚀 Deploy en producción  
-
----
-
-## 👨‍💻 Autor
-
-**Eze Gallardo**
-
-- GitHub: https://github.com/Ezegallardo0
-
----
-
-## 📄 Licencia
+GitHub: https://github.com/Ezegallardo0
+📄 Licencia
 
 Este proyecto fue creado con fines educativos y de portfolio.
