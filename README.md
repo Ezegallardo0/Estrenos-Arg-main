@@ -35,7 +35,6 @@ Aplicación web desarrollada con **React** que permite visualizar estrenos de pe
 
 ---
 
-🔥 PEGÁ ESTO TAL CUAL (reemplazá esa sección entera)
 ## 📦 Instalación y uso
 
 Entrar al proyecto:
@@ -50,7 +49,11 @@ npm install
 Ejecutar en entorno de desarrollo:
 
 npm run dev
-📁 Estructura del proyecto
+
+---
+
+```md
+## 📁 Estructura del proyecto
 src/
 │── components/   # Componentes reutilizables
 │── pages/        # Vistas principales
